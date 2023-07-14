@@ -1,13 +1,12 @@
 # levenshtein
+
 An implementation of the Levenshtein algorithm in Go.
 
-Install
--------
+## Install
 
-    go get github.com/julianpierer/levenshtein
+    go get github.com/jpierer/levenshtein
 
-Example
--------
+## Example
 
 ```go
 package main
@@ -15,7 +14,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/julianpierer/levenshtein"
+	"github.com/jpierer/levenshtein"
 )
 
 func main() {
@@ -26,7 +25,9 @@ func main() {
 ```
 
 ### Support Me
+
 Give a ⭐ if this project was helpful in any way!
 
 ### License
+
 The code is released under the [MIT LICENSE](/LICENSE).
